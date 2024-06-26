@@ -10,3 +10,4 @@
 - **Read**: View a list of all movies in the collection, or search for specific movies by title or director.
 - **Update**: Modify the details of existing movies.
 - **Delete**: Remove movies from the collection.
+    
