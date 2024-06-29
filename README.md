@@ -1,18 +1,8 @@
----
-
-# Go Movies CRUD
+# Movie CRUD API
 
 ## Introduction
 
-**Go Movies CRUD** is a simple and efficient web application built with Go (Golang) that demonstrates the basic CRUD (Create, Read, Update, Delete) operations for managing a list of movies. This project serves as a practical example for learning Go and building RESTful APIs.
-
-## Features
-
-- **Create**: Add new movies to the collection with relevant details like title, director, release year, and genre.
-- **Read**: View a list of all movies in the collection, or search for specific movies by title or director.
-- **Update**: Modify the details of existing movies.
-- **Delete**: Remove movies from the collection.
-    
+It is a simple and efficient web application built with Go (Golang) that demonstrates the basic CRUD (Create, Read, Update, Delete) operations for managing a list of movies. This project serves as a practical example for learning Go and building RESTful APIs.
 
 ## Technologies
 
@@ -81,7 +71,6 @@ The server will start at `http://localhost:3000`.
 - **Method:** `POST`
 - **Description:** Creates a new movie.
 - **Request Body:**
- 
 
 ### Update a Movie
 
@@ -89,7 +78,6 @@ The server will start at `http://localhost:3000`.
 - **Method:** `PUT`
 - **Description:** Updates an existing movie by ID.
 - **Request Body:**
-
 
 ### Delete a Movie
 
@@ -128,16 +116,13 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a pull request
 
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## My Social Media Accounts
 
-
-<a href="https://twitter.com/arjinalbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjinalbay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arjinalbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjinalbay" height="30" width="40" /></a>
-
+<a href="https://twitter.com/arjinalbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjinalbay-twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arjinalbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjinalbay-linkedin" height="30" width="40" /></a>
 
 ---
